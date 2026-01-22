@@ -27,7 +27,3 @@ To clean and preprocess the **Titanic Dataset** using Python (Pandas) by handlin
 
 ## ✅ Outcome
 The dataset is **cleaned, transformed, and ready for analysis or modeling**, demonstrating how Python can efficiently replace manual Excel-based data cleaning.
-
----
-
-✨ *This task helped build strong foundational skills in data preprocessing using Pandas.*
